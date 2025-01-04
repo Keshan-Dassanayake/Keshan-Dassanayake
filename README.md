@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Keshan! <br/> <a href="https://www.linkedin.com/in/keshan-dassanayake-aa472a334/"> A Robotics and Mechatronics Engineer</a>
+  
+<h2>✏️ CAD Projects:</h2>
 
-<!--
-**Keshan-Dassanayake/Keshan-Dassanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Aluminum Sheet Cutter</b>
+- <b>Aluminum Can Melter</b>
+- <b>Aluminum Ruler Stamping Unit</b>
+- <b>Robotic Arm</b>
+- <b>Gearbox</b>
+- <b>Suspension System</b>
 
-Here are some ideas to get you started:
+<h2>🧑‍💻 Coding Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Greenhouse Sensor</b> <i>(Arduino)</i>
+- <b>Geometric Calculator</b> 
+- <b>Washing Machine Program</b> <i>(Labview)</i>
+- <b>CamSort Marble System</b> <i>(Labview)</i>
