@@ -3,7 +3,7 @@
 <h2>✏️ CAD Projects:</h2>
 
 - <b>[Aluminum Sheet Cutter](https://github.com/Keshan-Dassanayake/Aluminum-Sheet-Cutter) </b>
-- <b>Aluminum Can Melter</b>
+- <b>[Aluminum Can Melter](https://github.com/Keshan-Dassanayake/Aluminum-Can-Melter)</b>
 - <b>Aluminum Ruler Stamping Unit</b>
 - <b>Robotic Arm</b>
 - <b>Gearbox</b>
