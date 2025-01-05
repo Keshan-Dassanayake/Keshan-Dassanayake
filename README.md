@@ -13,5 +13,5 @@
 
 - <b>[Greenhouse Monitoring System](https://github.com/Keshan-Dassanayake/Greenhouse-Monitoring-System)</b> <i>(Arduino)</i>
 - <b>[Geometric Calculator](https://github.com/Keshan-Dassanayake/Geometric-Calculator)</b> 
-- <b>Washing Machine Program</b> <i>(Labview)</i>
+- <b>[Washing Machine Program](https://github.com/Keshan-Dassanayake/Washing-Machine-Program)</b> <i>(Labview)</i>
 - <b>CamSort Marble System</b> <i>(Labview)</i>
