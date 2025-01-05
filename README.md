@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keshan! <br/> <a href="https://www.linkedin.com/in/keshan-dassanayake-aa472a334/"> Robotics and Mechatronics Engineer Student</a>
+<h1>Hi, I'm Keshan! <br/> <a href="https://www.linkedin.com/in/keshan-dassanayake-aa472a334/"> Robotics and Mechatronics Engineering Student</a>
   
 <h2>✏️ CAD Projects:</h2>
 
