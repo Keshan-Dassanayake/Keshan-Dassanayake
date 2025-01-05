@@ -12,6 +12,6 @@
 <h2>🧑‍💻 Coding Projects</h2>
 
 - <b>[Greenhouse Monitoring System](https://github.com/Keshan-Dassanayake/Greenhouse-Monitoring-System)</b> <i>(Arduino)</i>
-- <b>Geometric Calculator</b> 
+- <b>[Geometric Calculator](https://github.com/Keshan-Dassanayake/Geometric-Calculator)</b> 
 - <b>Washing Machine Program</b> <i>(Labview)</i>
 - <b>CamSort Marble System</b> <i>(Labview)</i>
