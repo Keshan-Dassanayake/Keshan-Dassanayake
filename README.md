@@ -7,7 +7,7 @@
 - <b>[Aluminum Ruler Stamping Unit](https://github.com/Keshan-Dassanayake/Aluminum-Ruler-Stamping-Unit)</b>
 - <b>[Robotic Arm](https://github.com/Keshan-Dassanayake/Robotic-Arm)</b>
 - <b>[Car Chassis](https://github.com/Keshan-Dassanayake/Car-Chassis)</b>
-- <b>Suspension System</b>
+- <b>[Suspension System](https://github.com/Keshan-Dassanayake/Suspension-System)</b>
 
 <h2>🧑‍💻 Coding Projects</h2>
 
