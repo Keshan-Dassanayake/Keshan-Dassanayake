@@ -5,7 +5,7 @@
 - <b>[Aluminum Sheet Cutter](https://github.com/Keshan-Dassanayake/Aluminum-Sheet-Cutter) </b>
 - <b>[Aluminum Can Melter](https://github.com/Keshan-Dassanayake/Aluminum-Can-Melter)</b>
 - <b>[Aluminum Ruler Stamping Unit](https://github.com/Keshan-Dassanayake/Aluminum-Ruler-Stamping-Unit)</b>
-- <b>Robotic Arm</b>
+- <b>[Robotic Arm](https://github.com/Keshan-Dassanayake/Robotic-Arm)</b>
 - <b>Gearbox</b>
 - <b>Suspension System</b>
 
